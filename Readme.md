@@ -17,6 +17,7 @@ This project is a full-stack AI-powered system designed to generate, adapt, and 
 
 ## 📂 Project Structure
 
+```
 ├── backend/
 │ ├── routes/
 │ │ ├── adaptive_quiz_routes.py
@@ -51,6 +52,7 @@ This project is a full-stack AI-powered system designed to generate, adapt, and 
 │ │ ├── ExplanationModel.jsx
 │ │ └── RetryQuizModel.jsx
 │ └── App.js
+```
 
 ---
 
